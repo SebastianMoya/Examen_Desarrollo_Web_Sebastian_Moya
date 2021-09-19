@@ -39,3 +39,17 @@ hr.border-first {
 .img-third {
   background-image: url(../img/carousel3.jpg);
 }
+
+.section-stream1 .play {
+  width: 25%;
+  position: absolute;
+  top: 1000px;
+  left: 80px;
+}
+.section-stream2 .play {
+  width: 10%;
+  position: absolute;
+  top: 500px;
+  right: 80px;
+  scale: 50%;
+}
