@@ -12,6 +12,10 @@
 hr.border-first {
   background-color: var(--color-primary);
 }
+.transition {
+  transition:0.8s ease; }             
+                
+                
 /* Header */
 @media screen and (max-width: 380px) {
   .text-logo {

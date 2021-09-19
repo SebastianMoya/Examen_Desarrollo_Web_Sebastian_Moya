@@ -14,7 +14,7 @@ $(document).ready(function () {
 
   $(window).scroll(function () {
     var scroll = $(window).scrollTop();
-    if (scroll < 300) {
+    if (scroll < 1100) {
       $(".fixed-top").css("background", "transparent");
     } else {
       $(".fixed-top").css("background", "#15aabf");
