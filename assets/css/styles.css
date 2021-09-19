@@ -41,13 +41,13 @@ hr.border-first {
 }
 
 .section-stream1 .play {
-  width: 25%;
+  max-width: 20%;
   position: absolute;
   top: 1000px;
   left: 80px;
 }
 .section-stream2 .play {
-  width: 10%;
+  max-width: 10%;
   position: absolute;
   top: 500px;
   right: 80px;
