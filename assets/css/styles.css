@@ -43,7 +43,7 @@ hr.border-first {
 .section-stream1 .play {
   max-width: 20%;
   position: absolute;
-  top: 800px;
+  top: 900px;
   left: 80px;
   z-index: 1;
 }
